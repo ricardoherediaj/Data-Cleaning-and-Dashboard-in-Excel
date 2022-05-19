@@ -12,3 +12,5 @@ In this project we downloaded a Bike Sales dataset from from this GitHub profile
 
 5. Check for Duplicates before doing anything → 26 duplicates were removed out of 1000
 
+<img src="images/Remove Duplicates from whole Dataset.png" width="400" >
+
