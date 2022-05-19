@@ -21,9 +21,6 @@ In this project we downloaded a Bike Sales dataset from from this GitHub profile
 - There has been 539 replacements
 - Do the same with S for → Single and it shows 463 replacements
 
-<img src="images/Column B Find and Replace M for Married.png" width="600" >
-
-
 <img src="images/Column B Find and Replace S for Single.png" width="600" >
 
 7. Use Find and Replace on column C 
