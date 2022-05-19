@@ -23,6 +23,7 @@ In this project we downloaded a Bike Sales dataset from from this GitHub profile
 
 <img src="images/Column B Find and Replace M for Married.png" width="600" >
 
+
 <img src="images/Column B Find and Replace S for Single.png" width="600" >
 
 7. Use Find and Replace on column C 
